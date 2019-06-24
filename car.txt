@@ -4,4 +4,5 @@ Cheapest and easy to use
 
 release branch has been added
 so now add the details of basic fare and all.
+the basic fares are starting from @99 INR
 
