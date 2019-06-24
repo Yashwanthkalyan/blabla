@@ -1,3 +1,7 @@
 This is blabla
 use it whenever u r going for ride
 Cheapest and easy to use
+
+release branch has been added
+so now add the details of basic fare and all.
+
